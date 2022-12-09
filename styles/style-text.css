@@ -1,0 +1,46 @@
+.link {
+    height: inherit;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.text-link-spliter {
+    display: inline-block;
+    margin-left: 8px;
+    margin-right: 8px;
+    color: grey;
+    vertical-align: inherit;
+}
+
+.text-link-spliter2 {
+    display: inline-block;
+    color: grey;
+    margin-left: 10px;
+}
+
+.text-link {
+    color: white;
+    text-decoration: none;
+    vertical-align: inherit;
+}
+
+.name {
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 32px;
+
+    display: inline-block;
+
+    padding-left: 32px;
+
+    vertical-align: auto;
+}
+
+.TextFooter {
+    padding-left: 10px;
+}
+
+.inline {
+    display: inline-block;
+}
