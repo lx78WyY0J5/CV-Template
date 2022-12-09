@@ -6,10 +6,13 @@
     border-color: rgb(255, 255, 255, 0.2);
     background-color: rgb(255, 255, 255, 0.1);
 
-    margin-left: 2%;
-    margin-top: 2%;
+    margin-left: 5%;
+    margin-top: 20px;
     padding-right: 32px;
-
     width: fit-content;
     height: fit-content;
+}
+
+.wrap {
+    padding-top: 70px;
 }
